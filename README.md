@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there 👋
+
+> **General Grievous:** General Kenobi. You are a bold one.  Kill him!
+> <br>
+> **General Grievous:**  Back away! I will deal with this Jedi slime *myself*.
+> <br>
+> **Obi-Wan Kenobi:** Your move.
+> <br>
+> **General Grievous:** You fool. I've been trained in your Jedi arts by Count Dooku.
+> <br>
+> **General Grievous:** Attack, Kenobi!
 
 <!--
 **GermanIvk05/GermanIvk05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
