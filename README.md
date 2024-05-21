@@ -10,6 +10,11 @@
 > <br>
 > **General Grievous:** Attack, Kenobi!
 
+## Skills
+- **Languages**: Python, Java, GDScript
+- **Tools**: Godot
+- **Specialties**: Game Developement
+
 <!--
 **GermanIvk05/GermanIvk05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
