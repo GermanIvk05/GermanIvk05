@@ -10,10 +10,11 @@
 > <br>
 > **General Grievous:** Attack, Kenobi!
 
-## Skills
-- **Languages**: Python, Java, GDScript
-- **Tools**: Godot
-- **Specialties**: Game Developement
+## Technical Skills
+- **Languages:** Python, C/C++, Java, JavaScript, HTML/CSS, SASS
+- **Frameworks:** Next.js, Vite.js
+- **Developer Tools:** Git, Postman, VS Code, Visual Studio, PyCharm, IntelliJ, WebStorm
+- **Libraries:** OpenAI,
 
 <!--
 **GermanIvk05/GermanIvk05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
