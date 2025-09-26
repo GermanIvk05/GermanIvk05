@@ -12,9 +12,9 @@
 
 ## Technical Skills
 - **Languages:** Python, C/C++, Java, JavaScript, HTML/CSS, SASS
-- **Frameworks:** Next.js, Vite.js
+- **Frameworks:** Next.js, Vite.js, Express.js
 - **Developer Tools:** Git, Postman, VS Code, Visual Studio, PyCharm, IntelliJ, WebStorm
-- **Libraries:** OpenAI,
+- **Libraries:** Pydantic, Beautiful Soup, OpenAI
 
 <!--
 **GermanIvk05/GermanIvk05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
