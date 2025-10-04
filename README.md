@@ -30,6 +30,6 @@ Currently, my main focus is Godot projects and learning through building.
 - Chess
 - Business and entrepreneurship
 - Personal finance and investing
-- Video games (I like recreating mechanics and systems as a way to develop technical skills)
+- Video games (often exploring how different mechanics are implemented)
 
 My personal website is on the backburner and might stay that way for a while.
