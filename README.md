@@ -1,32 +1,35 @@
-### Hello there 👋
+# Hello there👋
 
-> **General Grievous:** General Kenobi. You are a bold one.  Kill him!
-> <br>
-> **General Grievous:**  Back away! I will deal with this Jedi slime *myself*.
-> <br>
-> **Obi-Wan Kenobi:** Your move.
-> <br>
-> **General Grievous:** You fool. I've been trained in your Jedi arts by Count Dooku.
-> <br>
+> **General Grievous:** General Kenobi. You are a bold one. Kill him!  
+> **General Grievous:** Back away! I will deal with this Jedi slime myself.  
+> **Obi-Wan Kenobi:** Your move.  
+> **General Grievous:** You fool. I've been trained in your Jedi arts by Count Dooku.  
 > **General Grievous:** Attack, Kenobi!
 
-## Technical Skills
-- **Languages:** Python, C/C++, Java, JavaScript, HTML/CSS, SASS
-- **Frameworks:** Next.js, Vite.js, Express.js
-- **Developer Tools:** Git, Postman, VS Code, Visual Studio, PyCharm, IntelliJ, WebStorm
-- **Libraries:** Pydantic, Beautiful Soup, OpenAI
+---
 
-<!--
-**GermanIvk05/GermanIvk05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m always open to using new tech and expanding my skill set. Right now, I’m studying AI/ML, and I also have experience in game development, where I’m actively experimenting and learning.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming:** Python, C/C++, Java, JavaScript, HTML/CSS, SASS
+- **Web:** Next.js, Vite.js, Express.js
+- **Tools:** Git, Postman, VS Code, Visual Studio, PyCharm, IntelliJ, WebStorm
+- **Libraries:** Pydantic, Beautiful Soup, OpenAI, NumPy, Discord.py
+
+## Game Dev (Current Focus)
+
+- **Engine:** Godot
+- **Languages:** GDScript, C#, C++
+- **Focus:** Game design, prototyping, mechanics, balancing, scripting
+
+Currently, my main focus is Godot projects and learning through building.
+
+## Other interests
+
+- Chess
+- Business and entrepreneurship
+- Personal finance and investing
+- Video games (I like recreating mechanics and systems as a way to develop technical skills)
+
+My personal website is on the backburner and might stay that way for a while.
